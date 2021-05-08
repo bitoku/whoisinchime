@@ -1,7 +1,7 @@
 // import Helper from 'hubot-test-helper'
 // import mockAxios from 'jest-mock-axios'
 //
-// const helper = new Helper('../example.ts')
+// const helper = new Helper('../main.ts')
 //
 // let room = (null as unknown) as ReturnType<typeof helper.createRoom>
 //
